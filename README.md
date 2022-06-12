@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beshir Saeed</h1>
-<h3 align="center">A passionate Full-Stack Engineer based in Riyadh, SA</h3>
+<h3 align="center">A passionate Software Engineer apprentice based in Riyadh, SA</h3>
 
 <br>
 
