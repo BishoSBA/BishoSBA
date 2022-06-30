@@ -4,9 +4,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **Social Media Clone Project**
+- 🔭 I’m currently working on **The Odin Project**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Web Apps**
 
