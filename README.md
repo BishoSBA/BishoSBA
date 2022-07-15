@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Beshir Saeed</h1>
-<h3 align="center">A passionate Software Engineering Apprentice based in Riyadh, SA</h3>
+<h3 align="center">A passionate Software Engineer based in Riyadh, SA</h3>
 
 <br>
 
 
-- 🔭 I’m currently working on **The Odin Project**
+- 🔭 I’m currently working at **100Devs**
 
 - 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Web Apps**
-
-- 🤔 I’m looking for help with **Breaking into the Tech Industry**
 
 - 💬 Ask me about **Web Development and Startups**
 
