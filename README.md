@@ -48,8 +48,6 @@
             src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
 </p>
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=BishoSBA&show_icons=true&locale=en&layout=compact" alt="BishoSBA" /></p>
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BishoSBA&show_icons=true&locale=en" alt="BishoSBA"/>  </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BishoSBA&" alt="BishoSBA" /></p>
