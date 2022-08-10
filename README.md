@@ -47,8 +47,11 @@
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"" alt="babel" width="40" height="40" /> </a>
 </p>
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=BishoSBA&show_icons=true&locale=en&layout=compact" alt="BishoSBA" /></p>
+<h3 align="left">Personal Stats:</h3>
+<p>&nbsp;<img width="400px" src="https://www.codewars.com/users/BishoSBA/badges/large" alt="bishosba's Codewars stats"/></p>
+<p>&nbsp;<img width="400px" src="https://leetcard.jacoblin.cool/beshir899?theme=dark&font=Roboto" alt="bishosba's Codewars stats"/></p>
 
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=BishoSBA&show_icons=true&locale=en&layout=compact" alt="BishoSBA" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BishoSBA&" alt="BishoSBA" /></p>
 
