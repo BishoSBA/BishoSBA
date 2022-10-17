@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: **[Linkedin @beshir saeed](https://www.linkedin.com/in/beshir-saeed)**
 
-- ⚡ Fun fact: I speak 3 languages!
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
