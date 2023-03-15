@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ProLinkUp**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Web Apps**
 
