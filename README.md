@@ -3,12 +3,6 @@
 
 <br>
 
-- 🔭 I’m currently working on **ProLinkUp**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **Web Apps**
-
 - 💬 Ask me about **Web Development and Startups**
 
 - 📫 How to reach me: **[Linkedin @beshir saeed](https://www.linkedin.com/in/beshir-saeed)**
